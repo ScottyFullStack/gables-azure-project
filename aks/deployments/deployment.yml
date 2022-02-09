@@ -3,7 +3,6 @@ kind: Deployment
 metadata:
   annotations:
     deployment.kubernetes.io/revision: "1"
-  creationTimestamp: "2022-02-09T06:47:40Z"
   generation: 1
   labels:
     app: rest-api
